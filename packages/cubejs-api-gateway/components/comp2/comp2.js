@@ -1,1 +1,1 @@
-console.log('comp 2 _ after adasdajkhkjasdhksdfjhsasddsasd');
+console.log('comp 2 _ after sdfsdfsdf');
