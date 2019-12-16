@@ -1,6 +1,6 @@
 {
   "name": "@bit/pr-test.pr-test2.comp2",
-  "version": "0.0.151",
+  "version": "0.0.152",
   "homepage": "https://bit.dev/pr-test/pr-test2/comp2",
   "main": "comp2.js",
   "dependencies": {},
