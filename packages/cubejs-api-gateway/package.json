@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@bit/pr-test.pr-test2.comp1": "^1.0.20",
+    "@bit/pr-test.pr-test2.comp1": "^1.0.26",
     "@bit/pr-test.pr-test2.comp2": "file:./components/comp2",
     "@hapi/joi": "^14.0.6",
     "chrono-node": "^1.3.11",
