@@ -130,10 +130,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bit/pr-test.pr-test2.comp1@^1.0.30":
-  version "1.0.30"
-  resolved "https://node-stg.bit.dev/pr-test.pr-test2.comp1/-/pr-test.pr-test2.comp1-1.0.30.tgz#5d987c2fa09acca27e25463ac44904dc4442ec7d"
-  integrity sha1-XZh8L6CazKJ+JUY6xEkE3ERC7H0=
+"@bit/pr-test.pr-test2.comp1@^1.0.32":
+  version "1.0.32"
+  resolved "https://node-stg.bit.dev/pr-test.pr-test2.comp1/-/pr-test.pr-test2.comp1-1.0.32.tgz#e9297722ad532e8488ee5b6fd32b03ec7a885472"
+  integrity sha1-6Sl3Iq1TLoSI7ltv0ysD7HqIVHI=
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
